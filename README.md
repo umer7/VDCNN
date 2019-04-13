@@ -1,5 +1,5 @@
 # VDCNN
-Tensorflow Implementation of Very Deep Convolutional Neural Network for Text Classification.
+Keras Implementation of Very Deep Convolutional Neural Network for Text Classification.
 
 ## Note
 This is the clone of origanal repository of VDCNN which is a simple Keras implementation of VDCNN model proposed by Conneau et al. [Paper](https://arxiv.org/abs/1606.01781) for VDCNN.
