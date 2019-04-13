@@ -20,6 +20,7 @@ It should be noted that the VDCNN paper states that the implementation is done o
 
 ## Reference
 [Orignal Repo of VDCNN](https://github.com/zonetrooper32/VDCNN)
+
 [Original preprocessing codes and VDCNN Implementation By geduo15](https://github.com/geduo15/Very-Deep-Convolutional-Networks-for-Natural-Language-Processing-in-tensorflow)
 
 [Train Script and data iterator from Convolutional Neural Network for Text Classification](https://github.com/dennybritz/cnn-text-classification-tf)
