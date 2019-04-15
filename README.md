@@ -2,7 +2,7 @@
 Keras Implementation of Very Deep Convolutional Neural Network for Text Classification.
 
 ## Note
-This is the clone of orignal repository of VDCNN which is a simple Keras implementation of VDCNN model proposed by Conneau et al. [Paper](https://arxiv.org/abs/1606.01781) for VDCNN including the Data for Training and Testing.
+This repository include a simple Keras implementation of VDCNN model proposed by Conneau et al. [Paper](https://arxiv.org/abs/1606.01781) for VDCNN including the Data for Training and Testing. you can find the orignal repo in reference
 
 Note: Temporal batch norm not implemented. "Temp batch norm applies same kind of regularization as batch norm, except that the activations in a mini-batch are jointly normalized over temporal instead of spatial locations." Right now this project is using regular Tensorflow batch normalization only.
 
